@@ -24,6 +24,8 @@
 
 Seguindo o tutorial [Create a Website With Cool Animations Using HTML & CSS & JavaScript](https://youtu.be/1PcHzVn8hq8) no Youtube, criamos um website usando HTML, CSS e Javascript. Com esse tutorial aprendi como utilizar animações com JS, criar um cursor personalizado com efeitos e por fim criar efeito na imagem com o evento hover.
 
+Site criado: https://vanessaswerts.github.io/website-animations/
+
 ---
 
 ## 🦸 Autores
